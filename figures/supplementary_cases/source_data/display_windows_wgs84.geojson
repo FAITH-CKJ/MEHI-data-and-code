@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region_id": "R02",
+        "short_name": "R02_USA_softening",
+        "GU_A3": "USA",
+        "country": "United States",
+        "direction": "softening",
+        "bin_x": -1535,
+        "bin_y": 679,
+        "candidate_type": "strong softening",
+        "n_grid": 56,
+        "area_support_m2": 476285.9843740494,
+        "mean_pMEHI": -0.49766532468091806,
+        "median_pMEHI": -0.44101830460088753,
+        "p05_pMEHI": -0.830702954202117,
+        "p95_pMEHI": -0.254980380788698,
+        "MEHI_2000_mean": 0.2303775384557037,
+        "MEHI_2023_mean": -0.7649531109061326,
+        "MEHI_2000_median": 0.18439202913473637,
+        "MEHI_2023_median": -0.7594381850834429,
+        "centroid_lon": -82.63801627081563,
+        "centroid_lat": 27.899573728619803,
+        "bbox_west": -82.71200847931071,
+        "bbox_south": 27.857189082394864,
+        "bbox_east": -82.56409452403652,
+        "bbox_north": 27.941964666687436,
+        "reason_for_selection": "softening pMEHI cluster with 56 common 150 m grids; mean pMEHI=-0.498.",
+        "recommended_priority": "best_case",
+        "selection_score": 86.767,
+        "geometry_role": "display_window"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.71200847931071,
+              27.857189082394864
+            ],
+            [
+              -82.56409452403652,
+              27.857189082394864
+            ],
+            [
+              -82.56409452403652,
+              27.941964666687436
+            ],
+            [
+              -82.71200847931071,
+              27.941964666687436
+            ],
+            [
+              -82.71200847931071,
+              27.857189082394864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_id": "R04",
+        "short_name": "R04_THA_hardening",
+        "GU_A3": "THA",
+        "country": "Thailand",
+        "direction": "hardening",
+        "bin_x": 1973,
+        "bin_y": 333,
+        "candidate_type": "strong hardening",
+        "n_grid": 51,
+        "area_support_m2": 127419.69306622294,
+        "mean_pMEHI": 0.35138798019360495,
+        "median_pMEHI": 0.36362116600329464,
+        "p05_pMEHI": 0.24207462074134667,
+        "p95_pMEHI": 0.5487412585137026,
+        "MEHI_2000_mean": -0.5715317637029416,
+        "MEHI_2023_mean": 0.1312441966842682,
+        "MEHI_2000_median": -0.5604667999995873,
+        "MEHI_2023_median": 0.19722103753676326,
+        "centroid_lon": 100.19131045775465,
+        "centroid_lat": 13.52129933056341,
+        "bbox_west": 100.12995196151616,
+        "bbox_south": 13.480424969329006,
+        "bbox_east": 100.25271496444265,
+        "bbox_north": 13.562176371831285,
+        "reason_for_selection": "hardening pMEHI cluster with 51 common 150 m grids; mean pMEHI=0.351.",
+        "recommended_priority": "best_case",
+        "selection_score": 78.139,
+        "geometry_role": "display_window"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.12995196151616,
+              13.480424969329006
+            ],
+            [
+              100.25271496444265,
+              13.480424969329006
+            ],
+            [
+              100.25271496444265,
+              13.562176371831285
+            ],
+            [
+              100.12995196151616,
+              13.562176371831285
+            ],
+            [
+              100.12995196151616,
+              13.480424969329006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_id": "R08",
+        "short_name": "R08_AUS_softening",
+        "GU_A3": "AUS",
+        "country": "Australia",
+        "direction": "softening",
+        "bin_x": 2850,
+        "bin_y": -675,
+        "candidate_type": "strong softening",
+        "n_grid": 64,
+        "area_support_m2": 714795.1295253555,
+        "mean_pMEHI": -0.2969677173848612,
+        "median_pMEHI": -0.26315748565957364,
+        "p05_pMEHI": -0.5060429296020481,
+        "p95_pMEHI": -0.21781822374997425,
+        "MEHI_2000_mean": -0.373070636045225,
+        "MEHI_2023_mean": -0.9670060708149474,
+        "MEHI_2000_median": -0.41992141286719864,
+        "MEHI_2023_median": -1.0,
+        "centroid_lon": 153.33864663053507,
+        "centroid_lat": -27.695554888722206,
+        "bbox_west": 153.24795770687825,
+        "bbox_south": -27.73791565068831,
+        "bbox_east": 153.42944296874157,
+        "bbox_north": -27.653200356682145,
+        "reason_for_selection": "softening pMEHI cluster with 64 common 150 m grids; mean pMEHI=-0.297.",
+        "recommended_priority": "best_case",
+        "selection_score": 66.697,
+        "geometry_role": "display_window"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              153.24795770687825,
+              -27.73791565068831
+            ],
+            [
+              153.42944296874157,
+              -27.73791565068831
+            ],
+            [
+              153.42944296874157,
+              -27.653200356682145
+            ],
+            [
+              153.24795770687825,
+              -27.653200356682145
+            ],
+            [
+              153.24795770687825,
+              -27.73791565068831
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+field_name,definition,unit,allowed_range,source,role_in_appendix_or_fig5
+scenario,Shared Socioeconomic Pathway scenario,unitless,"SSP1, SSP2, SSP3, SSP5",data/scenario/scenario_year_lookup.csv,future urban-expansion scenario
+year,Source NetCDF variable year,year,"2010, 2020, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100",data/scenario/scenario_year_lookup.csv,temporal index
+file_path,Provider product reference; access is documented in workflow/THIRD_PARTY_SOURCES.md,text,source_alias://GAO_PESARESI_SEDAC_EXTERNAL,data/scenario/scenario_year_lookup.csv,source-product access reference
+variable_name,NetCDF urban-fraction variable for the scenario and year,text,ssp{scenario_number}_{year},data/scenario/scenario_year_lookup.csv,source-data traceability
+dims,Ordered NetCDF variable dimensions,dimension names,"lat, lon",data/scenario/scenario_year_lookup.csv,source-data traceability
+shape,Number of source-grid latitude and longitude coordinates,grid cells,"17160, 43200",data/scenario/scenario_year_lookup.csv,source-data traceability
+conversion,Source fraction/percent scale check applied before the urban fractions were used,text,as_fraction_or_percent_checked_on_sample,data/scenario/scenario_year_lookup.csv,source-data traceability

@@ -1,0 +1,20 @@
+Data and figure licence — CC BY 4.0
+
+Copyright (c) 2026 Kangjie Cao, Xiaoxue Shen, Xin Luo, Wei Li and Ruili Li.
+
+The authors' data, derived land-cover mosaics, trained model parameters,
+scientific figures and descriptive metadata in release v1.3.1 are licensed
+under the Creative Commons Attribution 4.0 International licence:
+https://creativecommons.org/licenses/by/4.0/
+Legal terms: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribute Cao et al., "Urban hardening of mangrove edges extends beyond
+forest loss: source data and reproducibility", version 1.3.1 (2026),
+https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/tag/v1.3.1 .
+Retain the licence link and indicate changes when reusing or modifying files.
+
+Original third-party materials retain their original terms. This notice does
+not relicense those materials. USGS Landsat imagery and Natural Earth map
+data are public domain. See workflow/EXTERNAL_DATA.md and the per-case scene
+metadata for provider attribution. Software is covered separately by LICENSE
+(MIT).

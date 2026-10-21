@@ -1,0 +1,34 @@
+{
+  "2000": {
+    "engine": "Planetary Computer",
+    "collection": "landsat-c2-l2",
+    "item_id": "LT05_L2SP_017041_20001227_02_T1",
+    "date": "2000-12-27 15:41:41.611025+00:00",
+    "cloud_cover": 0.0,
+    "window_label": "2000"
+  },
+  "2010": {
+    "engine": "Planetary Computer",
+    "collection": "landsat-c2-l2",
+    "item_id": "LT05_L2SP_017041_20101223_02_T1",
+    "date": "2010-12-23 15:51:53.104063+00:00",
+    "cloud_cover": 0.0,
+    "window_label": "2010"
+  },
+  "2020": {
+    "engine": "Planetary Computer",
+    "collection": "landsat-c2-l2",
+    "item_id": "LC08_L2SP_017041_20200101_02_T1",
+    "date": "2020-01-01 16:02:12.759462+00:00",
+    "cloud_cover": 1.48,
+    "window_label": "2020"
+  },
+  "2023": {
+    "engine": "Planetary Computer",
+    "collection": "landsat-c2-l2",
+    "item_id": "LC09_L2SP_017041_20230218_02_T1",
+    "date": "2023-02-18 16:02:23.463318+00:00",
+    "cloud_cover": 0.08,
+    "window_label": "2023"
+  }
+}

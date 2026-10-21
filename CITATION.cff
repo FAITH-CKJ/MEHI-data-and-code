@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this versioned data and code release."
+title: "Urban hardening of mangrove edges extends beyond forest loss: analysis and figure code"
+type: software
+authors:
+  - family-names: Cao
+    given-names: Kangjie
+  - family-names: Shen
+    given-names: Xiaoxue
+  - family-names: Luo
+    given-names: Xin
+  - family-names: Li
+    given-names: Wei
+  - family-names: Li
+    given-names: Ruili
+    orcid: "https://orcid.org/0009-0001-9166-2469"
+version: "v1.3.1"
+url: "https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/tag/v1.3.1"
+repository-code: "https://github.com/FAITH-CKJ/MEHI-data-and-code"
+license: MIT
+date-released: 2026-10-22

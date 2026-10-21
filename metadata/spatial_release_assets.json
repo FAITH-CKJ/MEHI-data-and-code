@@ -1,0 +1,358 @@
+[
+  {
+    "year": 2000,
+    "crs": "EPSG:4326",
+    "features": 924102,
+    "geometry_type": "Polygon",
+    "bounds": [
+      -96.19501422162887,
+      -37.178933990111375,
+      174.98718149453055,
+      29.555471162764093
+    ],
+    "class_field": "gridcode",
+    "location_field": "GU_A3",
+    "missing_country_location_count": 1,
+    "class_feature_counts": {
+      "1": 27915,
+      "2": 76595,
+      "3": 247322,
+      "4": 130384,
+      "5": 267921,
+      "6": 173965
+    },
+    "country_location_feature_counts": {
+      "AUS": 140058,
+      "BHR": 4120,
+      "BRA": 77988,
+      "CHN": 59327,
+      "COL": 10880,
+      "GHA": 5288,
+      "GIN": 23619,
+      "IDN": 33958,
+      "IND": 69010,
+      "MEX": 1522,
+      "MOZ": 7522,
+      "MYS": 65933,
+      "NGA": 13499,
+      "NZL": 57169,
+      "PAK": 24449,
+      "PHL": 9712,
+      "SGP": 7770,
+      "THA": 45934,
+      "USA": 266343
+    },
+    "files": [
+      {
+        "file": "mosaic2000join.shp",
+        "bytes": 256566984,
+        "sha256": "9fb4f0356950dcaacbdf44d63a181a847b7dcb570496d3bb105d6d55cfa86f4f"
+      },
+      {
+        "file": "mosaic2000join.shx",
+        "bytes": 7392916,
+        "sha256": "8f53b06359929087904e2b90b31d8bd8253972f2a686fcd9e7a9f788c0e106ae"
+      },
+      {
+        "file": "mosaic2000join.dbf",
+        "bytes": 12937526,
+        "sha256": "35e95ad50527b52ab5a7dc41ae50e4fc995cfc3eb9524b0723286120a1322ac8"
+      },
+      {
+        "file": "mosaic2000join.prj",
+        "bytes": 145,
+        "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+      },
+      {
+        "file": "mosaic2000join.cpg",
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      }
+    ],
+    "fields": [
+      {
+        "name": "gridcode",
+        "type": "integer",
+        "definition": "Land-cover class: 1 mangrove, 2 tidal flat, 3 non-mangrove vegetation, 4 water, 5 built-up, 6 other"
+      },
+      {
+        "name": "GU_A3",
+        "type": "text",
+        "definition": "Country/location reporting code; missing original joins remain blank"
+      }
+    ],
+    "asset": "MEHI_landcover_mosaic_2000_v1.3.1.zip",
+    "archive_bytes": 53866230,
+    "archive_sha256": "933ed87e16831f1d862d8246402b7e1e2daebfe60f4af513f26678fb4bb369c4",
+    "url": "https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/download/v1.3.1/MEHI_landcover_mosaic_2000_v1.3.1.zip",
+    "status": "geometry_and_class_location_attributes_preserved",
+    "author_data_license": "CC-BY-4.0"
+  },
+  {
+    "year": 2010,
+    "crs": "EPSG:4326",
+    "features": 871006,
+    "geometry_type": "Polygon",
+    "bounds": [
+      -96.19501422159104,
+      -37.17893398996628,
+      174.98718149487652,
+      29.555471162816218
+    ],
+    "class_field": "gridcode",
+    "location_field": "GU_A3",
+    "missing_country_location_count": 2,
+    "class_feature_counts": {
+      "1": 33119,
+      "2": 75704,
+      "3": 263720,
+      "4": 125854,
+      "5": 222511,
+      "6": 150098
+    },
+    "country_location_feature_counts": {
+      "AUS": 119558,
+      "BHR": 5068,
+      "BRA": 65479,
+      "CHN": 63011,
+      "COL": 13895,
+      "GHA": 3557,
+      "GIN": 26653,
+      "IDN": 22559,
+      "IND": 42133,
+      "MEX": 2924,
+      "MOZ": 7561,
+      "MYS": 74450,
+      "NGA": 19002,
+      "NZL": 37442,
+      "PAK": 23351,
+      "PHL": 7801,
+      "SGP": 6791,
+      "THA": 51123,
+      "USA": 278646
+    },
+    "files": [
+      {
+        "file": "mosaic2010join.shp",
+        "bytes": 248746468,
+        "sha256": "791b5e190101b09d9ae1c1461b7fbb4c5b40a15140adb9e6d517b90162a1534a"
+      },
+      {
+        "file": "mosaic2010join.shx",
+        "bytes": 6968148,
+        "sha256": "4a54cc1c361bd80fb8d0b41b3ddcf4912826e732fba1600f9cc0c27d798994f2"
+      },
+      {
+        "file": "mosaic2010join.dbf",
+        "bytes": 12194182,
+        "sha256": "0232ded0354c4107c1c1d57acbb17d5071cbb61e66eb3fb067829813504890af"
+      },
+      {
+        "file": "mosaic2010join.prj",
+        "bytes": 145,
+        "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+      },
+      {
+        "file": "mosaic2010join.cpg",
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      }
+    ],
+    "fields": [
+      {
+        "name": "gridcode",
+        "type": "integer",
+        "definition": "Land-cover class: 1 mangrove, 2 tidal flat, 3 non-mangrove vegetation, 4 water, 5 built-up, 6 other"
+      },
+      {
+        "name": "GU_A3",
+        "type": "text",
+        "definition": "Country/location reporting code; missing original joins remain blank"
+      }
+    ],
+    "asset": "MEHI_landcover_mosaic_2010_v1.3.1.zip",
+    "archive_bytes": 50902703,
+    "archive_sha256": "db6a70bd90f28deb510e404a6a92d238d94d31837098866e91242c659337b57b",
+    "url": "https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/download/v1.3.1/MEHI_landcover_mosaic_2010_v1.3.1.zip",
+    "status": "geometry_and_class_location_attributes_preserved",
+    "author_data_license": "CC-BY-4.0"
+  },
+  {
+    "year": 2020,
+    "crs": "EPSG:4326",
+    "features": 973500,
+    "geometry_type": "Polygon",
+    "bounds": [
+      -96.19501422159104,
+      -37.17893398996628,
+      174.98718149487652,
+      29.555471162816218
+    ],
+    "class_field": "gridcode",
+    "location_field": "GU_A3",
+    "missing_country_location_count": 0,
+    "class_feature_counts": {
+      "1": 24407,
+      "2": 59121,
+      "3": 276386,
+      "4": 171667,
+      "5": 294781,
+      "6": 147138
+    },
+    "country_location_feature_counts": {
+      "AUS": 130031,
+      "BHR": 7979,
+      "BRA": 69982,
+      "CHN": 69493,
+      "COL": 11956,
+      "GHA": 6148,
+      "GIN": 29416,
+      "IDN": 47758,
+      "IND": 47235,
+      "MEX": 4018,
+      "MOZ": 13671,
+      "MYS": 65401,
+      "NGA": 12752,
+      "NZL": 53513,
+      "PAK": 20939,
+      "PHL": 8200,
+      "SGP": 8233,
+      "THA": 52289,
+      "USA": 314486
+    },
+    "files": [
+      {
+        "file": "mosaic2020join.shp",
+        "bytes": 273710712,
+        "sha256": "45871f40e605dcbe66d3ec9e684f74c4ef845ddc72461d75ee4d81b004c43354"
+      },
+      {
+        "file": "mosaic2020join.shx",
+        "bytes": 7788100,
+        "sha256": "34c0ea1d5f3e5721a382ae6cb0f0f51503f781f3a60d6e02569ad856cce4ca94"
+      },
+      {
+        "file": "mosaic2020join.dbf",
+        "bytes": 13629098,
+        "sha256": "1e6c2163258bf16d6e10e69e62f77113320a98d46a88ebe8bfa29c63a75b42bc"
+      },
+      {
+        "file": "mosaic2020join.prj",
+        "bytes": 145,
+        "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+      },
+      {
+        "file": "mosaic2020join.cpg",
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      }
+    ],
+    "fields": [
+      {
+        "name": "gridcode",
+        "type": "integer",
+        "definition": "Land-cover class: 1 mangrove, 2 tidal flat, 3 non-mangrove vegetation, 4 water, 5 built-up, 6 other"
+      },
+      {
+        "name": "GU_A3",
+        "type": "text",
+        "definition": "Country/location reporting code; missing original joins remain blank"
+      }
+    ],
+    "asset": "MEHI_landcover_mosaic_2020_v1.3.1.zip",
+    "archive_bytes": 55976437,
+    "archive_sha256": "9eb2466f6b12555180b0540bc77482aef46b020c05fdd409947e0a6d8e06ea6e",
+    "url": "https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/download/v1.3.1/MEHI_landcover_mosaic_2020_v1.3.1.zip",
+    "status": "geometry_and_class_location_attributes_preserved",
+    "author_data_license": "CC-BY-4.0"
+  },
+  {
+    "year": 2023,
+    "crs": "EPSG:4326",
+    "features": 964086,
+    "geometry_type": "Polygon",
+    "bounds": [
+      -96.19501422162887,
+      -37.17893398996628,
+      174.9871814948387,
+      29.555471162816218
+    ],
+    "class_field": "gridcode",
+    "location_field": "GU_A3",
+    "missing_country_location_count": 0,
+    "class_feature_counts": {
+      "1": 25283,
+      "2": 75532,
+      "3": 282191,
+      "4": 147129,
+      "5": 284495,
+      "6": 149456
+    },
+    "country_location_feature_counts": {
+      "AUS": 103990,
+      "BHR": 6030,
+      "BRA": 64866,
+      "CHN": 71737,
+      "COL": 10560,
+      "GHA": 5943,
+      "GIN": 23693,
+      "IDN": 43151,
+      "IND": 44894,
+      "MEX": 3663,
+      "MOZ": 11515,
+      "MYS": 76879,
+      "NGA": 14801,
+      "NZL": 66679,
+      "PAK": 21084,
+      "PHL": 8514,
+      "SGP": 8467,
+      "THA": 51412,
+      "USA": 326208
+    },
+    "files": [
+      {
+        "file": "mosaic2023join.shp",
+        "bytes": 273694628,
+        "sha256": "b622be1b719e338ca7188fa2c1346fe1f6648f527248112cea74e1ef7f1e36bd"
+      },
+      {
+        "file": "mosaic2023join.shx",
+        "bytes": 7712788,
+        "sha256": "7502ef4f24a35eb75d13d0c3bc5284a91d6cabb887b20af743ecce10a76e964b"
+      },
+      {
+        "file": "mosaic2023join.dbf",
+        "bytes": 13497302,
+        "sha256": "8af2a95402d7fa529e02a85cf17f3f9ce2b3b5e28837cadd72f01cdb8ca34474"
+      },
+      {
+        "file": "mosaic2023join.prj",
+        "bytes": 145,
+        "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+      },
+      {
+        "file": "mosaic2023join.cpg",
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      }
+    ],
+    "fields": [
+      {
+        "name": "gridcode",
+        "type": "integer",
+        "definition": "Land-cover class: 1 mangrove, 2 tidal flat, 3 non-mangrove vegetation, 4 water, 5 built-up, 6 other"
+      },
+      {
+        "name": "GU_A3",
+        "type": "text",
+        "definition": "Country/location reporting code; missing original joins remain blank"
+      }
+    ],
+    "asset": "MEHI_landcover_mosaic_2023_v1.3.1.zip",
+    "archive_bytes": 56035934,
+    "archive_sha256": "99208cad69a138ddc0134f5f8acc7abfd642be8d7b1734ec434c745cd296185b",
+    "url": "https://github.com/FAITH-CKJ/MEHI-data-and-code/releases/download/v1.3.1/MEHI_landcover_mosaic_2023_v1.3.1.zip",
+    "status": "geometry_and_class_location_attributes_preserved",
+    "author_data_license": "CC-BY-4.0"
+  }
+]
